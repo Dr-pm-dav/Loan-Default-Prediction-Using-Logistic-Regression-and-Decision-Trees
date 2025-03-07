@@ -1,1 +1,2 @@
-# Loan-Default-Prediction-Using-Logistic-Regression-and-Decision-Trees
+# Loan Default Prediction Using Logistic Regression and Decision Trees
+Evaluating the risk of default in loan applications is a critical task for financial institutions. Predicting the probability of default enables lenders to make informed decisions, minimizing potential financial losses and enhancing overall risk management (Li et al., 2023). In this project, the German Credit dataset was analyzed using logistic regression to estimate the probability of default for loan applicants. The analysis was conducted using both Python and R, with the primary focus on determining the likelihood of default, while a secondary comparison between the two platforms was also made. These models are NOT optimized.
